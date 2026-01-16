@@ -30,16 +30,7 @@ I specialize in Backend Development, Cloud Architecture, and Business Logic.
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lochi011&show_icons=true&theme=radical&hide_border=true" alt="Santiago's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochi011&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-
-
----
 
 ### 📫 Connect with me
 
