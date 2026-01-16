@@ -33,14 +33,14 @@ I specialize in Backend Development, Cloud Architecture, and Business Logic.
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" alt="Santiago's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lochi011&show_icons=true&theme=radical&hide_border=true" alt="Santiago's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochi011&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with me
 
-<a href="LINK_A_TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/santiago-lozano-81171624b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
